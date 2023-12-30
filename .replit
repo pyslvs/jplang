@@ -6,6 +6,8 @@ run = "python3 main.py"
 [env]
 GIT_AUTHOR_NAME = "pyslvs"
 GIT_AUTHOR_EMAIL = "pyslvs@mde.tw"
+GIT_COMMITTER_NAME = "pyslvs"
+GIT_COMMITTER_EMAIL = "pyslvs@mde.tw"
 
 [nix]
 channel = "stable-23_05"
